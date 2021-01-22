@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![githubStat](https://github-readme-stats.vercel.app/api?username=dekathomas&show_icons=true)
+![githubStat](https://github-readme-stats.vercel.app/api?username=dekathomas&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on freelance projects
 - 🌱 I’m currently learning Vue and Nuxt
